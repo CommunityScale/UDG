@@ -1,5 +1,8 @@
 site_name: Open Source Urban Design Guidelines
 
+repo_url: https://github.com/CommunityScale/UDG
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   custom_dir: overrides
@@ -25,8 +28,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+  features:
+    - content.action.view
 
-        theme:
 extra:
   social:
      - icon: fontawesome/brands/linkedin
@@ -35,3 +39,8 @@ extra:
      - icon: material/home
        link: https://communityscale.io/
        name: CommunityScale
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - search
