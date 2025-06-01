@@ -1,4 +1,4 @@
-site_name: Urban Design Guidelines
+site_name: Open Source Urban Design Guidelines
 
 theme:
   name: material
@@ -29,11 +29,11 @@ theme:
         theme:
   features:
     - toc.integrate
-  extra:
-    social:
-      - icon: fontawesome/brands/linkedin
-        link: https://www.linkedin.com/company/communityscale/
-        name: LinkedIn
-      - icon: material/home
-        link: https://communityscale.io/
-        name: CommunityScale
+extra:
+  social:
+     - icon: fontawesome/brands/linkedin
+       link: https://www.linkedin.com/company/communityscale/
+       name: LinkedIn
+     - icon: material/home
+       link: https://communityscale.io/
+       name: CommunityScale
