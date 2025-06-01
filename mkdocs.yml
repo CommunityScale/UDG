@@ -2,3 +2,38 @@ site_name: Urban Design Guidelines
 
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+        theme:
+  features:
+    - toc.integrate
+  extra:
+    social:
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/communityscale/
+        name: LinkedIn
+      - icon: material/home
+        link: https://communityscale.io/
+        name: CommunityScale

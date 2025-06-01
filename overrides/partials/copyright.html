@@ -1,0 +1,17 @@
+
+<!-- Copyright and theme information -->
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+  {% if not config.extra.generator == false %}
+    <a
+      href="https://communityscale.io/"
+      target="_blank" rel="noopener"
+    >
+      CommunityScale
+    </a>
+  {% endif %}
+</div>
