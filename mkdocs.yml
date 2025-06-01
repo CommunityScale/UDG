@@ -27,8 +27,6 @@ theme:
         name: Switch to system preference
 
         theme:
-  features:
-    - toc.integrate
 extra:
   social:
      - icon: fontawesome/brands/linkedin
