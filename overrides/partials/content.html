@@ -27,14 +27,6 @@
         {% set repo_name = repo_parts[1] %}
         {% set file_path = page.file.src_path %}
         {% set view_url = "https://raw.githubusercontent.com/" ~ repo_owner ~ "/" ~ repo_name ~ "/refs/heads/main/docs/" ~ file_path %}
-        <a
-          href="{{ view_url }}"
-          title="{{ lang.t('view.link.title') }}"
-          class="md-content__button md-icon"
-        >
-          {% set icon = config.theme.icon.view or "material/eye" %}
-          {% include ".icons/" ~ icon ~ ".svg" %}
-        </a>
       {% else %}
         <!-- Fallback for non-GitHub repos -->
         <a
