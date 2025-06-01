@@ -1,18 +1,18 @@
 # Urban Design Guidelines
 
-## Purpose
+## 1 Purpose
 
 Buildings shall be designed to provide exceptional livability while raising the bar for aesthetic and finish quality. Building design shall encourage lively, pedestrian-oriented open spaces that attract interest and interaction with the site and building. Buildings shall contribute to street-level activity and a sense of occupancy through the location and animating design of ground floor uses.
 
-### Authority
+### 1.1 Authority
 
 The community zoning ordinance establishes the site plan review process for development applications. This document, the the community design guidelines (guidelines), establishes the design and planning standards as the basis for the site plan review process.
 
-### Applicability
+### 1.2 Applicability
 
 These design guidelines apply communitywide for any residential property with four or more units and any commercial building with 5,000 or more gross square feet.
 
-### Approach
+### 1.3 Approach
 
 The city must ensure that changes serve the local community and provide a predictable process for applicants. These guidelines support the community’s ambition to become a more walkable, transit-friendly, and mixed-use community by ensuring consistently high-quality site and architectural design throughout the community. The desired outcome is technologically and economically viable urban places. These guidelines also address pre-existing conditions related to existing uses and buildings.
 
@@ -22,11 +22,11 @@ The guidelines are presented in two sections, urban design and building design.
 
 ---
 
-## Urban design
+## 2 Urban design
 
 *The starting point for urban design in the community is the pedestrian experience. Buildings and spaces shall enhance the quality of the pedestrian environment and be compatible with the surrounding area.*
 
-### Context
+### 2.1 Context
 
 Developments shall be responsive to the existing pattern of development, including overall image, scale, and character.
 
@@ -49,7 +49,7 @@ Submit a registered survey showing 2-ft topography, all trees ≥6-in. caliper, 
 - Mitigate or minimize adverse impacts on any historic resources
 - Preserve existing mature trees wherever possible&#x20;
 
-### Connections
+### 2.2 Connections
 
 Provide safe, convenient movement for pedestrians, cyclists, and transit users and add new public links where appropriate.
 
@@ -61,7 +61,7 @@ Provide safe, convenient movement for pedestrians, cyclists, and transit users a
 - Mid-block passages may be open-air or covered if public access is maintained
 - Design mid-block connections to reach useful destinations and link to open-space networks&#x20;
 
-### Site design and open space
+### 2.3 Site design and open space
 
 Site design shall integrate with adjacent streets, create clear public-to-private transitions, and use best-practice storm-water strategies. Larger projects must expand the community’s public-realm network.
 
@@ -100,7 +100,7 @@ Site design shall integrate with adjacent streets, create clear public-to-privat
 - Design surface lots for snow storage with proper drainage
 - Provide seating or shelter in public-art installations in high-traffic areas
 
-### Complete streets
+### 2.4 Complete streets
 
 Use a complete-street approach for any frontage or right-of-way work. Provide for walking, cycling, transit, driving, and social interaction.
 
@@ -143,11 +143,11 @@ Use a complete-street approach for any frontage or right-of-way work. Provide fo
 
 ---
 
-## Building design
+## 3 Building design
 
 *Buildings shall be designed to provide exceptional livability while raising the bar for aesthetic and f inish quality. Building design shall encourage lively, pedestrian-oriented open spaces that attract interest and interaction with the site and building. Buildings shall contribute to street-level activity and a sense of occupancy through the location and animating design of ground floor uses.*
 
-### Ground floors
+### 3.1 Ground floors
 
 Ground floors shall enliven the public realm, create interesting pedestrian journeys, ensure privacy for residential uses, and screen service areas from public streets and parks.
 
@@ -182,7 +182,7 @@ Ground floors shall enliven the public realm, create interesting pedestrian jour
 
 - Mechanical equipment, refuse storage, service areas, and loading areas not entirely enclosed within buildings shall (1) be located outside required setbacks and not within 10 feet of any property line, (2) be permanently screened from view from adjacent public streets and parks and from abutting property under separate ownership when on the ground, and (3) meet all city, state and federal noise regulations.
 
-### Massing
+### 3.2 Massing
 
 Frame public space and harmonize with context through appropriate orientation, articulation, and height transitions.
 
@@ -195,7 +195,7 @@ Frame public space and harmonize with context through appropriate orientation, a
 - Step heights down toward nearby lower-scale residential zones
 - Facing such zones, a principal wall cornice may exceed the zone’s height limit by ≤20 ft before stepping back&#x20;
 
-### Parking
+### 3.3 Parking
 
 Give priority to walking, cycling, and transit; minimize parking’s visual/functional impact.
 
@@ -218,7 +218,7 @@ Give priority to walking, cycling, and transit; minimize parking’s visual/func
 - Provide direct pedestrian/wheeled access from a public street
 - Design garages for shared or public use where feasible&#x20;
 
-### Amenity space
+### 3.4 Amenity space
 
 Multi-family buildings must foster social interaction through indoor and outdoor shared spaces.
 
@@ -235,7 +235,7 @@ Multi-family buildings must foster social interaction through indoor and outdoor
 - Design outdoor areas for visibility from units while mitigating noise/conflict
 - Locate interior shared spaces along common paths and with good natural light&#x20;
 
-### Compact living
+### 3.5 Compact living
 
 Applies to new developments of ≥10 units below the following sizes: studio ≤500 sf, 1-BR ≤650 sf, 2-BR ≤850 sf, 3-BR ≤950 sf.
 
@@ -247,7 +247,7 @@ Applies to new developments of ≥10 units below the following sizes: studio ≤
 - Design to support a car-free lifestyle (bike facilities, quality transit, safe walking)
 - Ensure ample storage (in-unit or common); consider lending libraries or similar solutions&#x20;
 
-### Roofs
+### 3.6 Roofs
 
 Roofs must reinforce the design intent for pedestrians and screen mechanical systems.
 
@@ -268,7 +268,7 @@ Roofs must reinforce the design intent for pedestrians and screen mechanical sys
 - Paint vent stacks and other protrusions to match roof/façade
 - Screen mechanical equipment with parapets, cupolas, or dormers&#x20;
 
-### Architectural materials and details
+### 3.7 Architectural materials and details
 
 Materials and details must harmonize with surroundings and convey durable, high-quality design.
 
